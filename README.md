@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm 二青
 
-<!--
-**2-qing/2-qing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+- 🎓 我是一名福州大学计算机专业的学生
+- 💡 兴趣方向：人工智能，AI 应用开发，Web 开发
+- 📷 业余爱好：睡眠，阅读
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 技能树
+
+| 方向 | 熟练程度 | 说明 |
+| ---- | -------- | ---- |
+| C / C++ | 熟悉基本语法和算法运用，了解单片机外设编程，完成过 GPIO/TIMER/ADC/PWM/SCI 等实验 |
+| Markdown | 用于笔记和博客写作 |
+|AI模型调用|熟悉并运用过当前各主流AI工具帮助学习 |
+---
+
+## 📈 自我评估
+
+### 已掌握的专业知识和能力
+- 能力 A：C/C++ 基础编程
+- 能力 B：了解嵌入式系统的部分开发
+
+### 感兴趣的技术方向
+- AI 应用开发：大模型 API 调用、提示词工程、图像生成
+- Web 全栈：从页面到后端接口的完整开发流程
+
+### 最希望学习的知识
+- 深度学习基础与模型微调（LoRA、Fine-tuning）。
+- 软件工程全流程：需求分析、设计、测试、部署。
+
+---
+
+## 🚀 未来发展规划
+
+- **关于未来**：打牢基础，掌握 C/C++、Python、数据结构和算法，同时着重注意AI方向的研究。希望未来的实习方向和论文设计与此相关。同时鉴于本人在计算机专业的学习并不顺利，保研考研的升学压力极大，未来可能偏向考公及就业。
